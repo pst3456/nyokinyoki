@@ -1,0 +1,22 @@
+{
+  "name": "nyokinyoki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pst3456/nyokinyoki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pst3456/nyokinyoki/issues"
+  },
+  "homepage": "https://github.com/pst3456/nyokinyoki#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
